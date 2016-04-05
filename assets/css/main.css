@@ -141,6 +141,10 @@ tbody tr:hover {
     height: 454px;
 }
 
+#main img {
+    max-width: 100%;
+}
+
 /* SVG Images
 ==================================
 */
