@@ -10,8 +10,8 @@ collections:
     permalink: /:path/
 
 # Title
-name: OCTO Smart City Inventory
-subtitle: 'Office of the Chief Technology Officer | Muriel Bowser, Mayor'
+name: DC Smart City Initiative
+subtitle: 'Muriel Bowser, Mayor'
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -34,6 +34,12 @@ navigation:
 - text: About this Initiative
   internal: true
   url:
+- text: What is Smart City Technology?
+  internal: true
+  url: what.html
+- text: Featured Projects
+  internal: true
+  url: featured.html
 - text: Inventory (in progress)
   internal: true
   url: inventory.html
