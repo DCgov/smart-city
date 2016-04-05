@@ -6,7 +6,7 @@ title: About this Initiative
 
 **The OCTO Smart City Inventory aims to develop a complete picture, across all eight wards, of smart city-aligned projects, partner organizations, and opportunities**
 
-The [Office of the Chief Technology Officer (OCTO)](http://octo.dc.gov/) is leading an interagency effort to explore how “smart city” technology can be used in the District. [Smart city technology]() leverages intelligent city infrastructure, including connected devices, sensors, and data analytics, to improve quality of life for residents, enhance economic growth, and address city challenges.
+The [Office of the Chief Technology Officer (OCTO)](http://octo.dc.gov/) is leading an interagency effort to explore how “smart city” technology can be used in the District. [Smart city technology](https://en.wikipedia.org/wiki/Smart_city) leverages intelligent city infrastructure, including connected devices, sensors, and data analytics, to improve quality of life for residents, enhance economic growth, and address city challenges.
 
 This effort reflects a partnership between city agencies and other key District stakeholders including the federal government, universities, business improvement districts (BIDs), the tech community, and others interested in working together to make a smarter DC.
 
