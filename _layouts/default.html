@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+  {% include header.html %}
+
+  <body>
+    <div class="container">
+      <header role="banner">
+        <div class="wrap">
+          {% if site.logourl != null %}
+            <a href="http://dmped.dc.gov"><img class="logo" src="{{ site.baseurl }}{{ site.logourl }}" alt="{{ site.logoalt }}"></a>
+          {% endif %}
+          <h1 class="site-title"><a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+          <h6 class="site-subtitle"> {{ site.subtitle }} </h6>
+        </div>
+      </header>
+
+      <div class="wrap content">
+
+        {% include sidebar.html %}
+
+        <section id="main" class="main-content" role="main">
+          {{ content }}
+        </section>
+
+      </div><!-- /.wrap content -->
+
+      {% include glossary.html %}
+
+      {% include footer.html %}
+
+    </div> <!-- /.container -->
+    </body>
+    {% include scripts.html %}
+</html>

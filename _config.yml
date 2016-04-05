@@ -1,0 +1,54 @@
+# Base configuration
+exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md"]
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Title
+name: OCTO Smart City Inventory
+subtitle: 'Office of the Chief Technology Officer | Muriel Bowser, Mayor'
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: Office of the Chief Technology Officer
+  url: http://octo.dc.gov
+
+# When using this template with a project (repository) page set the baseurl to '/project-name'
+# For user/organization pages set this to an empty string
+# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
+# See http://jekyllrb.com/docs/github-pages/ for more info
+baseurl: '/smart-city'
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: '/assets/img/we-are-wdc.png'
+logoalt: We Are Washington DC
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: About this Initiative
+  internal: true
+  url:
+- text: Inventory (in progress)
+  internal: true
+  url: inventory.html
+- text: Share a Project or Idea
+  internal: false
+  url: http://goo.gl/forms/vEUyXBLhlQ
+
+# Repo list
+# List repos that you would like to appear on the homepage here
+repos:
+- name: smart-city
+  description:
+  url: https://github.com/DCgov/smart-city
+
+google_analytics_ua: UA-2638726-1
+
+# Style Variables
+brand_color: "#BF0000"
