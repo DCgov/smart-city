@@ -30,7 +30,7 @@ title: Inventory (in progress)
 {% endraw %}
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.4.3/tabletop.min.js"></script>
-<script type="text/javascript" src="/assets/js/sheetsee.js"></script>
+<script type="text/javascript" src="assets/js/sheetsee.js"></script>
 <script type="text/javascript">
     var key = '1m9pukHIAACMIy2ESAvhhB6sEYw-E1L7wyK3WdPCJpk0'
     var sheet = 'Published to Website'
