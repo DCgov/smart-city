@@ -13,6 +13,7 @@ The Smart City proof of concept projects while focused on delivering more immedi
 The [featured projects](featured.html) show examples of Smart City projects in progress across various parts of the District and led by various District agencies.
 
 While the District is working on a collective and collaborative definition of what a Smart DC should be, characteristics of a Smart City include the following elements:
+
 * Led or Sponsored by a District agency
 * Real-time data collection through network of sensors
 * Heat map or dashboard visualizing datasets
