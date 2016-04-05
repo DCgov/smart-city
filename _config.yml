@@ -34,15 +34,12 @@ navigation:
 - text: About this Initiative
   internal: true
   url:
-- text: What is Smart City Technology?
+- text: What is a Smart City Project?
   internal: true
   url: what.html
 - text: Featured Projects
   internal: true
   url: featured.html
-- text: Inventory (in progress)
-  internal: true
-  url: inventory.html
 - text: Share a Project or Idea
   internal: false
   url: http://goo.gl/forms/vEUyXBLhlQ

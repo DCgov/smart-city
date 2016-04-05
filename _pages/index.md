@@ -12,7 +12,7 @@ This is a collaborative effort reflecting partnerships between city agencies and
 
 ### We want to hear from you
 
-Are you or your organization interested in or currently working on smart city topics? Tell us about your projects or ideas by completing [our questionnaire](/questionnaire.html). We’ll add relevant projects to our [project inventory](/inventory.html), and use this knowledge to identify new opportunities for partnership and investment.
+Are you or your organization interested in or currently working on smart city topics? Tell us about your projects or ideas by completing [our questionnaire](/questionnaire.html). We’ll add relevant projects to our project inventory, and use this knowledge to identify new opportunities for partnership and investment.
 
 This website and project inventory is a first step in a larger initiative that will evolve and expand over time. If you have ideas for what OCTO or the District government could be doing or want to contribute to these efforts, please get in touch with us at [smarterdc@dc.gov](mailto:smarterdc@dc.gov).
 
