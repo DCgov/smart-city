@@ -8,7 +8,7 @@ title: Inventory (in progress)
 
 <div id="inventoryTable"></div>
 
-<p><em><a href="https://docs.google.com/spreadsheets/d/1m9pukHIAACMIy2ESAvhhB6sEYw-E1L7wyK3WdPCJpk0/pub?gid=0&single=true&output=csv" target="_blank">download data</a></em></p>
+<p><em><a href="https://docs.google.com/spreadsheets/d/1m9pukHIAACMIy2ESAvhhB6sEYw-E1L7wyK3WdPCJpk0/pubhtml?gid=0&single=true" target="_blank">view full spreadsheet</a></em> | <em><a href="https://docs.google.com/spreadsheets/d/1m9pukHIAACMIy2ESAvhhB6sEYw-E1L7wyK3WdPCJpk0/pub?gid=0&single=true&output=csv" target="_blank">download data</a></em></p>
 
 {% raw %}
 <script id="inventoryTable_template" type="text/html">
