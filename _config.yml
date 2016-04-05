@@ -43,6 +43,9 @@ navigation:
 - text: Share a Project or Idea
   internal: false
   url: http://goo.gl/forms/vEUyXBLhlQ
+- text: Partners
+  internal: true
+  url: partners.html
 
 # Repo list
 # List repos that you would like to appear on the homepage here
